@@ -1,0 +1,11 @@
+/*
+ *  This is an image asset file (chest_icon.png) and does not require code generation.
+ *  Please ensure that the image meets the following requirements:
+ *  - File type and format: PNG image.
+ *  - Dimensions: 64x64 pixels.
+ *  - Resolution: 72 DPI.
+ *  - Usage context: Used as an icon in the `FeatureHighlight` component for the "Engagement Boosting" feature.
+ *  - Background transparency: Required.
+ *  - Responsive behavior: Should maintain its aspect ratio when scaling.
+ *  - Other information: A simple, pixelated icon of a chest.
+ */
